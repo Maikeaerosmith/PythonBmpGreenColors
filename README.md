@@ -35,8 +35,13 @@ Ler uma determinada região do mapa, e dizer quanto % daquela região possui ár
 A classe lê as imagens e grava um arquivo de log com as informações de: 
 
 *Data e Hora da Leitura*
+
 *Nome do Arquivo*
+
 *Largura e Altura*
+
 *Quantidade total de Pixels*
+
 *Quantidade total de Pixels Verdes*
+
 *% de pixels verdes em relação a quantidade total*
