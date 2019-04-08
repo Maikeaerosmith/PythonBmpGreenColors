@@ -1,0 +1,8 @@
+2019-04-08 10:46:23.684614: C:\Users\maicon.friedel\Desktop\bmp\images\blumenau.bmp: Width: 267 pixels - Height: 185 pixels - Total Pixels: 49395 - Green Pixels:  10405 - 21.06488510982893%
+
+2019-04-08 10:46:27.206435: C:\Users\maicon.friedel\Desktop\bmp\images\floresta.bmp: Width: 1264 pixels - Height: 614 pixels - Total Pixels: 776096 - Green Pixels:  490975 - 63.26214798169298%
+
+2019-04-08 10:46:29.076873: C:\Users\maicon.friedel\Desktop\bmp\images\sao paulo.bmp: Width: 796 pixels - Height: 544 pixels - Total Pixels: 433024 - Green Pixels:  71849 - 16.59238287023352%
+
+2019-04-08 10:46:29.408880: C:\Users\maicon.friedel\Desktop\bmp\images\woman.bmp: Width: 294 pixels - Height: 294 pixels - Total Pixels: 86436 - Green Pixels:  0 - 0.0%
+
