@@ -53,3 +53,7 @@ A classe lê as imagens e grava um arquivo de log com as informações de:
 *-Quantidade total de Pixels Verdes*
 
 *-% de pixels verdes em relação a quantidade total*
+
+## Diagrama UML
+
+![Diagrama de Uso](https://raw.githubusercontent.com/Maikeaerosmith/PythonBmpGreenColors/master/diagrama_uml.bmp)
