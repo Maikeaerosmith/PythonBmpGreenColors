@@ -27,21 +27,23 @@ Ler uma determinada região do mapa, e dizer quanto % daquela região possui ár
 **As soluções que se pretende dar com esta classe**
 
 -Ler uma quantidade qualquer de arquivos de forma simples
+
 -Ter a informação de área verde do mapa de forma rápida e prática
+
 -Realizar estudos na região do mapa de acordo com o resultado da análise que a classe faz
 
 ## Conclusão
 
 A classe lê as imagens e grava um arquivo de log com as informações de: 
 
-*Data e Hora da Leitura*
+*-Data e Hora da Leitura*
 
-*Nome do Arquivo*
+*-Nome do Arquivo*
 
-*Largura e Altura*
+*-Largura e Altura*
 
-*Quantidade total de Pixels*
+*-Quantidade total de Pixels*
 
-*Quantidade total de Pixels Verdes*
+*-Quantidade total de Pixels Verdes*
 
-*% de pixels verdes em relação a quantidade total*
+*-% de pixels verdes em relação a quantidade total*
